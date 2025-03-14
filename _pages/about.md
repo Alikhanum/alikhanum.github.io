@@ -13,7 +13,9 @@ My research interests include antenna design, radio-frequency (RF) circuits, and
 
 Updates
 ======
-**July, 2024:** Graduated from the HKUST - MSc in Telecommunications.
+**September, 2024:** Received HKUST RedBird PhD Award Program.
+
+**July, 2024:** Graduated from the HKUST - MSc in Telecommunications. Received MSc Excellent Student Scholarship for outstanding academic performance.
 
 **May, 2023:** Finished my 1-year internship at HiSilicon, Huawei Hong Kong Research Center as Digital Design & Verification Engineer Intern.
 
